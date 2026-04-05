@@ -16,13 +16,13 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 ---
 
 ## Dashboard- Power BI
-![Dashboard](Dashboard.png)
-![dash](dash.png)
+![Dashboard](imagens/Dashboard.png)
+![dash](imagens/dash.png)
 
 ---
 
 ## Modelagem de Dados
-![modelagem](modelagem.png)
+![modelagem](imagens/modelagem.png)
 
 ---
 

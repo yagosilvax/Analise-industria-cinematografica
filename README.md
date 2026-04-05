@@ -17,12 +17,12 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 
 ## 📊 Dashboard
 ![Dashboard](Dashboard.png)
-![Dashboard](Dashboard(2).png)
+
 
 ---
 
 ## 🧠 Modelagem de Dados
-
+![Star Squema](Modelagem de dados.png)
 
 ---
 

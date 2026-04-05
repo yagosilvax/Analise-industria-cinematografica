@@ -29,28 +29,27 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 ## Etapas do Projeto
 
 ### 1. Importação dos dados
-Os dados foram importados no PostgreSQL com todas as colunas como TEXT.
+- Os dados em CSV foram importados no PostgreSQL com todas as colunas como TEXT.
 
 ### 2. Tratamento dos dados- SQL
-Foram criadas views para tratar JSON e organizar os dados.
-Remocao de dados duplicados
-Transformação dos dados de origem
-Criação de VIEWS para facilitar a construção do modelo de dados.
+- Foram criadas views para tratar JSON e organizar os dados.
+- Remoção de dados duplicados
+- Transformação dos dados de origem
 
 ### 3. Modelagem
-Construção de um modelo estrela (Star Schema) utilizando tabelas dimensão e fato.
+- Construção de um modelo estrela (Star Schema) utilizando tabelas dimensão e fato.
 
 ### 4. Dashboard
-Criação de visualizações no Power BI.
-Criação de medidas e indicadores como Lucro, ROI e Receita.
+- Criação de visualizações no Power BI.
+- Criação de medidas e indicadores como Lucro, ROI e Receita.
 
 ---
 
 ## 📈 Principais Insights
 
--A análise dos dados revela que o lucro na indústria cinematográfica é multifatorial: 
+- A análise dos dados revela que o lucro na indústria cinematográfica é multifatorial: 
 Gêneros como drama e comédia lideram em satisfação, mas não necessariamente em volume financeiro.
--Existe uma correlação direta entre o orçamento total de um filme a sua bilheteria, indicando que investimentos em produção visual e cenários bem elaborados contribuem para o alcance de bilheterias bilionárias.
+- Existe uma correlação direta entre o orçamento total de um filme a sua bilheteria, indicando que investimentos em produção visual e cenários bem elaborados contribuem para o alcance de bilheterias bilionárias.
 
 ---
 ##   Conclusão

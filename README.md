@@ -1,4 +1,10 @@
 
+
+## Dashboard- Power BI
+![Dashboard](imagens/Dashboard.png)
+![dash](imagens/dash.png)
+
+
 # Análise da Indústria Cinematográfica
 Dashboard interativo de Análise de ROI, Lucro e fatores de sucesso no cinema.
 
@@ -15,11 +21,6 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 
 ---
 
-## Dashboard- Power BI
-![Dashboard](imagens/Dashboard.png)
-![dash](imagens/dash.png)
-
----
 
 ## Modelagem de Dados
 ![modelagem](imagens/modelagem.png)

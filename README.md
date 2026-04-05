@@ -15,9 +15,9 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 
 ---
 
-## Dashboard
+## Dashboard- Powwer BI
 ![Dashboard](Dashboard.png)
-
+![dash](dash.png)
 
 ---
 

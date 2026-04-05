@@ -22,7 +22,7 @@ Analisar os principais fatores que influenciam o sucesso de um filme utilizando 
 ---
 
 ## Modelagem de Dados
-
+![modelagem](modelagem.png)
 
 ---
 
